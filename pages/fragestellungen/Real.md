@@ -2,29 +2,12 @@
 layout: page
 title: Was ist Real?
 tagline: edited by Julius Müller
+group: navigation
 ---
 
 Bezug zum Film
 ==============
 Die Technologie der Naniten lässt zu, dass Fantasien ausgelebt werden können, die kaum realer sein könnten. Mord, Vergewaltigung und die allgemeine Verrohung der Gesellschaft sind an der Tagesordnung.
-
-Definitionen
-=================
-Realität:
---------
-Als “real” wird zum einen etwas bezeichnet, das keine Illusion ist, und nicht von den Wünschen oder Überzeugungen eines Einzelnen abhängig ist.
-Real Life:
-----------
-Leben außerhalb der virtuellen Aktivitäten im Internet.
-
-Virtualität:
-------------
-Eine Sache, die nicht in der Form existiert, in der sie zu existieren scheint, aber in ihrem Wesen oder ihrer Wirkung einer in dieser Form existierenden Sache gleicht. Somit ist „virtuell“ nicht das Gegenteil von „real“ – obwohl es fälschlicherweise oft so verwendet wird – sondern von „physisch“.
-
-Virtuality Continuum:
--------------
-
-![Virtuality Continuum](http://upload.wikimedia.org/wikipedia/en/d/dc/Virtuality_Continuum_2.jpg)
 
 Gedankenanstöße
 =============
