@@ -2,6 +2,7 @@
 layout: page
 title: Gewalt in Computerspielen
 tagline: Supporting tagline
+group: navigation
 ---
 
 Bezug zum Film

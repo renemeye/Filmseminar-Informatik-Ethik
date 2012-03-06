@@ -2,6 +2,7 @@
 layout: page
 title: Was ist Real?
 tagline: edited by Julius Müller
+group: navigation
 ---
 
 Bezug zum Film
