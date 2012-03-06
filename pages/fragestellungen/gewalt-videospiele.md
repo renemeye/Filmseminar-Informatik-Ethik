@@ -1,8 +1,7 @@
 ---
 layout: page
 title: Gewalt in Computerspielen
-tagline: Supporting tagline
-group: navigation
+tagline: Sind Computerspiele gefährlich?
 ---
 
 Bezug zum Film
@@ -28,7 +27,12 @@ Gewaltdarstellung in Videospielen
 Ein zentrales mittel vieler Computerspiele basieret auf dem kompetativen Wettstreit. Also dem gegenseitigen messen wer besser ist.
 Als eines der ersten Videospiele, welches nach deutschem Recht indexiert wurde gilt die 1984 erschienene Panzersimulation „Battle Zone“. Die Darstellung von Gewalt war in diesen frühen Anfängen noch sehr limitiert. Doch die Angst vor einer militärischen Auseinandersetzung der beiden Supermächte war mitte der Achtziger noch sehr aktuell. ![Battle Zone](../../images/battlezone.png)
 
-Knapp zehn Jahre später hat sich mit der ersten Version von Doom die Grafik deutlich weiterentwickelt. Aufgrund der für die damalige Zeit realistischen Darstellung, hat sich die BPjM 1993 für eine Aufnahme in die Liste der jugendgefährdenen Medien entschieden. ![Doom](../../images/doom.png "Ein Screenshot von Doom")
+Knapp zehn Jahre später hat sich mit der ersten Version von Doom die Grafik deutlich weiterentwickelt. Aufgrund der für die damalige Zeit realistischen Darstellung, hat sich die BPjM 1993 für eine Aufnahme in die Liste der jugendgefährdenen Medien entschieden.
+![Doom](images/doom.png)
+
+![Doom 3](images/doom3.png)
+
+![Battlefield 3](images/battlefield-3.png)
 
 
 1993 „Doom“ erster Ego-Shoter in 3D Grafik - bis 2011 indiziert
@@ -57,20 +61,3 @@ Ist die Darstellung der Gewalt im Computerspiel selbstzweckhaft und detailliert?
 In wieweit wird die Distanzierung vom virtuellen Spielgeschehen vermindert oder gefördert?
 Spieler wird die Wahl gelassen ob er Gewalt anwendet oder nicht.
 Wichtiges Unterscheidungsmerkmal zum Film ist die direkte Beteiligung
-
-Einene [Link](http://google.com)
-
-{% for post in site.pages %}
-{{ post.title }}
-{% endfor %}
-
-
-* Einleitung
-* IMDB Auszug
-* Fragestellungen
-* Thema 1
-* Thema 2
-* Thema 3
-* Quellen
-
-> Dies ist ein Fucking Zitat
