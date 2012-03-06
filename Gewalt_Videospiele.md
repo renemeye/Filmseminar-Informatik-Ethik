@@ -4,6 +4,11 @@ title: Gewalt in Computerspielen
 tagline: Supporting tagline
 ---
 
+Bezug zum Film
+==============
+Verrohung der Gesellschaft
+Exzessive Gewaltdarstellung im Fernsehen
+Publikum jubelt „Gamern“ zu
 
 Definition Gewalt
 =================
@@ -20,8 +25,11 @@ Gewaltdarstellung in Videospielen
 =================================
 
 Ein zentrales mittel vieler Computerspiele basieret auf dem kompetativen Wettstreit. Also dem gegenseitigen messen wer besser ist.
-Als eines der ersten Videospiele, welches nach deutschem Recht indexiert wurde gilt die 1984 erschienene Panzersimulation „Battle Zone“. Die Darstellung von Gewalt war in diesen frühen Anfängen noch sehr limitiert. Doch die Angst vor einer militärischen Auseinanderse war
-1984 „Battle Zone“ als eines der ersten drei Computerspiele in die Liste jugendgefährdender Schriften aufgenommen.
+Als eines der ersten Videospiele, welches nach deutschem Recht indexiert wurde gilt die 1984 erschienene Panzersimulation „Battle Zone“. Die Darstellung von Gewalt war in diesen frühen Anfängen noch sehr limitiert. Doch die Angst vor einer militärischen Auseinandersetzung der beiden Supermächte war mitte der Achtziger noch sehr aktuell. ![Battle Zone](images/battlezone.png)
+
+Knapp zehn Jahre später hat sich mit der ersten Version von Doom die Grafik deutlich weiterentwickelt. Aufgrund der für die damalige Zeit realistischen Darstellung, hat sich die BPjM 1993 für eine Aufnahme in die Liste der jugendgefährdenen Medien entschieden. ![Doom](images/doom.png)
+
+
 1993 „Doom“ erster Ego-Shoter in 3D Grafik - bis 2011 indiziert
 2004 „Doom 3“ deutlich realistische Darstellung - nicht indiziert
 2011 „Battlefield 3“
