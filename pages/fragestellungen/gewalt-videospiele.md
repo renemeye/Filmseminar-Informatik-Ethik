@@ -21,30 +21,30 @@ Um eine erste Übersicht zu bekommen was überhaupt Gewalt ist sind nachfolgend 
 Definition nach Brockhaus:
 >„Gewalt, die Anwendung von physischem oder psychischem Zwang gegenüber Menschen. Gewalt umfasst 1) die rohe, gegen Sitte und Recht verstoßende Einwirkung auf Personen (lateinisch violentia), 2) das Durchsetzungsvermögen in Macht- und Herrschaftsbeziehungen (lateinisch potestas) \[…\]“
 
+Auffälig ist, dass sich nach beiden Definitionen, Gewalt immer gegen Menschen oder menschenähnliche Wesen zu richten scheint.
+
 Gewaltdarstellung in Videospielen
 =================================
 
-Ein zentrales mittel vieler Computerspiele basieret auf dem kompetativen Wettstreit. Also dem gegenseitigen messen wer besser ist.
+Ein zentrales mittel vieler Computerspiele basieret auf dem kompetativen Wettstreit. Also dem gegenseitigen messen welcher Spieler besser ist. Dieses Mittel führt dazu, dass heute viele Spiele diesen Wettkampf mit Gewaltdarstellungen visualisieren. Schön früh in der Geschichte der Videospiele kam es zu Aufnahmen in die Liste der jugendgefärdenden Medien. Die folge einer sogenaten „Indizierung“ sind sowohl ein Verkaufs- und Vertriebsverbot für jugentliche unter 18 Jahren, als auch ein generelles Werbeverbot. Ein Eintrag besteht grundsätzlich für 25 Jahre, es kann aber bereits nach 10 Jahren durch den Hersteller eine erneute Überprüfung beantragt werden.
 Als eines der ersten Videospiele, welches nach deutschem Recht indexiert wurde gilt die 1984 erschienene Panzersimulation „Battle Zone“. Die Darstellung von Gewalt war in diesen frühen Anfängen noch sehr limitiert. Doch die Angst vor einer militärischen Auseinandersetzung der beiden Supermächte war mitte der Achtziger noch sehr aktuell. 
 ![Battle Zone](../../images/battlezone.png)
 
 Knapp zehn Jahre später hat sich mit der ersten Version von „Doom“ die Grafik deutlich weiterentwickelt.![Doom](../../images/doom.png)
-Aufgrund der für die damalige Zeit realistischen Gewaltdarstellung, hat sich die BPjM 1993 für eine Aufnahme in die Liste der jugendgefährdenen Medien entschieden. Verglichen mit dem deutlich später erschienenen „Doom 3“ (2004) des selben Herstellers, wirkt die Darstellung der Gewalt in „Doom“ aus heutiger Sicht harmlos. „Doom 3“ ist auch nicht indiziert worden.
-![Doom 3](../../images/doom3.png)
-
+Aufgrund der für die damalige Zeit realistischen Gewaltdarstellung, hat sich die BPjM 1993 für eine Aufnahme in die Liste der jugendgefährdenen Medien entschieden. Verglichen mit dem deutlich später erschienenen „Doom 3“ (2004), welches nicht indiziert worden ist, wirkt die Darstellung der Gewalt in „Doom“ aus heutiger Sicht für die BpJM harmlos. ![Doom 3](../../images/doom3.png) An diesem Beispiel zeigen sich die gewandelten Moralvorstellungen der BpJM stellvertretend für die Gesellschaft. Auch kriegerische Darstellungen scheint man heute wesentlch toleranter gegenüberzustehen. Wie die Gegenüberstellung des ersten Beispiels „Battle Zone” mit einem aktuellen Kriegsshoter „Battlefield 3“ (2011, nicht indiziert) zeigt.
 ![Battlefield 3](../../images/battlefield-3.png)
-2011 „Battlefield 3“
+Ein wichtiges Unterscheidungsmerkmal von Videospielen gegenüber Filmen ist die direkte Beteiligung. Dies ist kann zum einen als Nachteil gewertet werden, da der Spieler die Handlungen selbst ausführt und somit stärker mit der Gewaltausführung verbunden ist. Es kann aber auch als Vorteil gesehen werden, wenn dem Spieler beispielsweise die Wahl gelassen ob er Gewalt anwendet oder nicht.
 
 BPjM
 ====
+
+Die BPjM hat sehr differenzierte Richtlinien um die jugendgefährdung von Computerspielen zu bewerten.
 
 * Sind Menschen, menschenähnliche Wesen oder aber andere Geschöpfe Opfer der virtuellen Gewalt?
 * Was ist die Motivation, (ethische) Begründung bzw. Legitimation der virtuellen Gewalt?
 * Wird das Computerspiel insgesamt durch Mord- und Metzelszenen geprägt?
 * Ist die Darstellung der Gewalt im Computerspiel selbstzweckhaft und detailliert?
 * In wieweit wird die Distanzierung vom virtuellen Spielgeschehen vermindert oder gefördert?
-* Spieler wird die Wahl gelassen ob er Gewalt anwendet oder nicht.
-* Wichtiges Unterscheidungsmerkmal zum Film ist die direkte Beteiligung
 
 Erklärungsansätze
 =================
