@@ -38,13 +38,13 @@ Aufgrund der für die damalige Zeit realistischen Gewaltdarstellung, hat sich di
 BPjM
 ====
 
-Sind Menschen, menschenähnliche Wesen oder aber andere Geschöpfe Opfer der virtuellen Gewalt?
-Was ist die Motivation, (ethische) Begründung bzw. Legitimation der virtuellen Gewalt?
-Wird das Computerspiel insgesamt durch Mord- und Metzelszenen geprägt?
-Ist die Darstellung der Gewalt im Computerspiel selbstzweckhaft und detailliert?
-In wieweit wird die Distanzierung vom virtuellen Spielgeschehen vermindert oder gefördert?
-Spieler wird die Wahl gelassen ob er Gewalt anwendet oder nicht.
-Wichtiges Unterscheidungsmerkmal zum Film ist die direkte Beteiligung
+>*Sind Menschen, menschenähnliche Wesen oder aber andere Geschöpfe Opfer der virtuellen Gewalt?
+*Was ist die Motivation, (ethische) Begründung bzw. Legitimation der virtuellen Gewalt?
+*Wird das Computerspiel insgesamt durch Mord- und Metzelszenen geprägt?
+*Ist die Darstellung der Gewalt im Computerspiel selbstzweckhaft und detailliert?
+*In wieweit wird die Distanzierung vom virtuellen Spielgeschehen vermindert oder gefördert?
+*Spieler wird die Wahl gelassen ob er Gewalt anwendet oder nicht.
+*Wichtiges Unterscheidungsmerkmal zum Film ist die direkte Beteiligung
 
 Erklärungsansätze
 =================
