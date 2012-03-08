@@ -61,15 +61,15 @@ Ebenfalls ausgehend von der Triebtheorie Freuds wurde die Inhibitionstheorie, al
 
 ###Die Theorie der kognitiven Unterstützung
 
-Eine weitere Variante der Katharsistheorie stellt die kognitive Unterstützungstheorie dar. Nach ihr wird durch die Medien (insbesondere bei Menschen mit niedriger Intelligenz und schwacher Einbildungskraft) die Phantasie der Rezipienten angeregt. Durch mediale Gewaltdarstellungen wird die Fähigkeit zur Kontrolle der eigenen Aggressionen kognitiv unterstützt.
+Eine weitere Variante der Katharsistheorie stellt die kognitive Unterstützungstheorie dar. Grundlage dieser Theorie ist, dass die Phantasie der Konsumenten angeregt wird. Dies soll insbesondere für Menschen mit niedriger Intelligenz und schwacher Einbildungskraft zutreffen. Durch die Darstellung der Gewalt solle die Kontrolle über die eigene Aggression kognitiv unterstützt werden.
 
 ###Die Stimulationstheorie
 
-In der Stimulationstheorie wird eine der Katharsistheorie widersprechende Auffassung vertreten. Gewaltdarstellungen haben demnach keine Ventilfunktion, sondern führen im Gegenteil zu einer aggressiven Aufladung. Die Theorie hat zur Grundlage, dass Medieninhalte in der Lage sind beim Rezipienten gefühlsmäßige Erregungen zu bewirken. Nach der Stimulationstheorie wird somit durch Gewaltdarstellungen die Aggressivität des Rezipienten gesteigert und seine Gewaltbereitschaft erhöht. Aber auch nicht-gewalttätige Inhalte (wie zum Beispiel erotische Darstellungen) können Aggressionen auslösen, sofern sie durch entsprechende Umweltreize stimuliert werden.
+Entgegen der Kartasistheorie, vertritt die Stimulationstheorie die entgegengesetzte Auffassung. Anstelle einer Ventilfunktion, füre der konsum gewalthaltieger Videospiele zu einer sich immer weiter steigertenden aggressiven Aufladung. Grundlage der Theorie ist, dass gewaltätige Darstellungen eine gefühlsmäßige Erregung beim Rezipienten bewirken sollen.
 
 ###Die Habitualisierungstheorie
 
-Die Grundüberlegung der Habitualisierungstheorie ist, dass eine dauerhafte Veränderung von Einstellungen kaum durch einzelne Medienereignisse bewirkt werden kann. Daher werden in dieser Theorie langfristige Wirkungen betont. Demnach stumpft der Rezipient bei ständiger Konfrontation mit fiktiver Mediengewalt nicht nur allmählich gegenüber diesen Gewaltdarstellungen ab. Nach der Habitualisierungstheorie führt das wiederholte Beobachten fiktiver Gewalt auch zu einer Gewöhnung an reale Gewalt. Dies kann dazu führen, dass der Rezipient Gewalt als normale Alltäglichkeit und als Mittel zur Konfliktlösung ansieht. Längerfristig werden also Wandlungen der Persönlichkeitsstruktur und der Moralauffassungen des Rezipienten befürchtet. (6)
+Bei der Habitualisierungstheorie wird davon augegangen, dass eine Steigerung der Gewaltbereitschaft nicht auf einzelne Medienereignisse zurückzuführen ist. Dieser Ansatz betont daher die langfristigen Wirkungen. Demnach stumpft der Spieler durch die Konfrontation mit fiktionaler Gewalt allmälich gegenüber dieser ab. Außerdem führe das wiederholte Beobachten fiktiver Gewalt auch zu einer Gewöhnung an reale Gewalt. Die Gefahr besteht das der Konsument das Mittel Gewalt immer weiter als alltägliches Mittel zur Lösung von Konflikten ansieht. Es wird befürchtet, dass sich die Persönlichkeitsstruktur und die Moralauffassung des Spielers mit der Zeit anpassen.
 
 Quelle http://www.stefre.de/html/gewaltwirkungsforschung.html
 
