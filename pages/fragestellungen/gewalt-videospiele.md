@@ -75,3 +75,8 @@ Quelle http://www.stefre.de/html/gewaltwirkungsforschung.html
 
 Studien
 =======
+
+>Publication bias was a problem for studies of aggressive behavior, and methodological problems such as the use of poor aggression measures inflated effect size. Once corrected for publication bias, studies of media violence effects provided little support for the hypothesis that media violence is associated with higher aggression. The corrected overall effect size for all studies was r = .08.
+
+http://www.jpeds.com/article/S0022-3476(08)01037-8/abstract
+
