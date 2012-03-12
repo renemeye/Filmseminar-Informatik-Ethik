@@ -32,10 +32,7 @@ Realitätsbezug
 Quellen 
 Impressum 
 
-Filmplakat [b1]
-
-
-Einene [Link](http://google.com)
+Filmplakat
 
 {% for post in site.pages %}
 {{ post.title }}
