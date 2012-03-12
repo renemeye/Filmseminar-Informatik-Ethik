@@ -10,3 +10,7 @@ Der Sträfling John “Kable” Tillmann ist zu Beginn des Films bereits im 27. 
 Die Untergrundorganisation HumanZ, die in eindrucksvollen Hackaktionen gegen das Spiel kämpfen, kontaktieren Simon und bietet ihm an, Kontakt mit Kable aufzunehmen. Er nimmt dieses Angebot an und gibt im Verlauf des Films Kable freie Handlungsmöglichkeiten, sodass dieser nicht mehr von außen gesteuert wird.
 Im Laufe des Films wird klar, dass der Elitesoldat Kable verurteilt wurde, nachdem er ferngesteuert jemand getötet hat, um die anfänglichen Fehlschläge der Nanitensteuerung zu vertuschen.
 Kable kämpft sich in die Freiheit und dringt in die Villa von Ken Castle ein. Dort kommt es zu einem finalen Showdown zwischen Ken Castle und Kable, durch den die geheimen Machenschaften von Ken Castle aufgedeckt werden. Mit Hilfe der Naniten soll die Welt durch Ken Castle beherrscht werden. Dieser Plan wird jedoch von Kable vereitelt. 
+
+<iframe width="560" height="315" src="http://www.youtube.com/embed/P2g94xQmtHw" frameborder="0" allowfullscreen="allowfullscreen"></iframe>
+
+Filmtrailer
