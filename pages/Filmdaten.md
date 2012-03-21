@@ -3,43 +3,49 @@ layout: page
 title: Filmdaten
 group: navigation
 ---
-
-Filmdaten
-=========
-Deutscher Titel	Gamer
-Originaltitel	Gamer
-Produktionsland	USA
-Originalsprache	Englisch
-Erscheinungsjahr	2009
-Länge	94 (Blu-ray) Minuten; 83 (FSK 16) Minuten und 91 (DVD & Kino) Minuten
-Altersfreigabe	FSK 18
-FSK 16 (gekürzt)
-JMK 16
-Stab
-Regie	Mark Neveldine,
-Brian Taylor
-Drehbuch	Mark Neveldine,
-Brian Taylor
-Produktion	Gary Lucchesi,
-Tom Rosenberg,
-Skip Williamson,
-Richard S. Wright
-Musik	Robb Williamson,
-Geoff Zanelli
-Kamera	Ekkehart Pollack
-Schnitt	Peter Amundson,
-Fernando Villena
-Besetzung
-Gerard Butler: John "Kable" Tillman
-Michael C. Hall: Ken Castle
-Kyra Sedgwick: Gina Parker Smith
-Alison Lohman: Trace
-Amber Valletta: Angie "Nika" Tillman
-Logan Lerman: Simon
-Ludacris: Humanz Brother
-John Leguizamo: Freek
-Christine Price: Kat
-Zoë Bell: Sandra
-Efren Ramirez: DJ Twist
-Terry Crews: Hackman
-Milo Ventimiglia: Rick Rape
+<table>
+	<tr>
+		<td>Titel:</td><td>Gamer</td>
+	</tr>
+	<tr>
+		<td>Produktionsland:</td><td>USA</td>
+	</tr>
+	<tr>
+		<td>Originalsprache:</td><td>Englisch</td>
+	</tr>
+	<tr>
+		<td>Genre:</td><td>Action | Sci-Fi | Thriller</td>
+	</tr>
+	<tr>
+		<td>Erscheinungsjahr:</td><td>2009</td>
+	</tr>
+	<tr>
+		<td>Altersfreigabe:</td><td>FSK 18, FSK 16 (gekürzt)</td>
+	</tr>
+	<tr>
+		<td>Länge:</td><td>95 Minuten</td>
+	</tr>
+	<tr>
+		<td>Seitenverhältnis:</td><td>1,85 : 1 </td>
+	</tr>	
+	<tr>
+		<td>Regie:</td><td>Mark Neveldine,Brian Taylor</td>
+	</tr>
+	<tr>
+		<td>Drehbuch:</td><td>Mark Neveldine,Brian Taylor</td>
+	</tr>
+	<tr>
+		<td>Produktion:</td><td>Gary Lucchesi,Tom Rosenberg,Skip Williamson,Richard S. Wright</td>
+	</tr>
+	<tr>
+		<td>Darsteller:</td><td>
+								<p>Gerard Butler: John "Kable" Tillman</p>
+								<p>Michael C. Hall: Ken Castle</p>
+								<p>Kyra Sedgwick: Gina Parker Smith</p>
+								<p>Alison Lohman: Trace</p>
+								<p>Amber Valletta: Angie "Nika" Tillman</p>
+								<p>Logan Lerman: Simon</p>
+								<p>Ludacris: Humanz Brother</p>
+							</td>
+	</tr>
+</table>
