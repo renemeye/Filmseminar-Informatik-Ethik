@@ -2,29 +2,12 @@
 layout: page
 title: Was ist Real?
 tagline: edited by Julius Müller
+group: navigation
 ---
 
 Bezug zum Film
 ==============
 Die Technologie der Naniten lässt zu, dass Fantasien ausgelebt werden können, die kaum realer sein könnten. Mord, Vergewaltigung und die allgemeine Verrohung der Gesellschaft sind an der Tagesordnung.
-
-Definitionen
-=================
-Realität:
---------
-Als “real” wird zum einen etwas bezeichnet, das keine Illusion ist, und nicht von den Wünschen oder Überzeugungen eines Einzelnen abhängig ist.
-Real Life:
-----------
-Leben außerhalb der virtuellen Aktivitäten im Internet.
-
-Virtualität:
-------------
-Eine Sache, die nicht in der Form existiert, in der sie zu existieren scheint, aber in ihrem Wesen oder ihrer Wirkung einer in dieser Form existierenden Sache gleicht. Somit ist „virtuell“ nicht das Gegenteil von „real“ – obwohl es fälschlicherweise oft so verwendet wird – sondern von „physisch“.
-
-Virtuality Continuum:
--------------
-
-![Virtuality Continuum](http://upload.wikimedia.org/wikipedia/en/d/dc/Virtuality_Continuum_2.jpg)
 
 Gedankenanstöße
 =============
@@ -35,7 +18,7 @@ Vorausgesetzt es gäbe die Möglichkeit (z.B. durch bedingungsloses Grundeinkomm
 Jetzt sind Computerspiele bereits ein Bestandteil unserer Lebenswirklichkeit. Vor allem mit den neuen Möglichkeiten der Onlinespiele ist das Problem der überlagen Spielzeit stark erhöht. 62 Prozent der 6- bis 13-Jährigen spielen täglich oder mehrmals die Woche am Computer oder an der Konsole. Von diesen werden häufiger (46%) Onlinespiele gespielt.
 Doch was macht Computerspiele so attraktiv? Die Antwort darauf wird man nicht direkt nach der Installation eines neuen Spieles finden, denn dort muss man sich erst an die neue Situation gewöhnen - Frust und Misserfolge resultieren daraus. Wenn diese erste Eingewöhnungsphase jedoch überwunden ist, dann zieht das Computerspiel den Spielenden häufig in seinen Bann. Er wird in seinen Entscheidungen immer wieder durch Belohnungen und Erfolge bestätigt. Daraus kann das sogenannte Phänomen des “Flow” entstehen, ein dahinfließen der Zeit, bei welchem die Zeit nicht mehr wirklich wahrgenommen wird.
 In dieser Spielwelt können sich Menschen begegnen, miteinander kommunizieren und soziale Verbindungen aufbauen. Dass diese Treffen im virtuellen Raum und nicht in der realen Welt stattfinden, wird nicht nur als Nachteil erlebt. Man kann zum Beispiel agieren, ohne sein wirkliches Alter oder Aussehen preisgeben zu müssen. 
-In einem Computerspiel kann der Spieler neue Rollen ausprobieren. Vor allem für die, die im „Real Life“ Außenseiter sind, kann die Faszination der Onlinewelt als Erlebnisraum zur Versuchung führen, sich in die virtuelle Welt zu flüchten, um sich hier selbst zu bestätigen und den Problemen des Alltags zu entfliehen [Duda]. Dies gilt insbesondere dann, wenn die vom Spieler gewählte virtuelle Gemeinschaft durch sozialen Druck eine lange Anwesenheit im virtuellen Raum fordert. 
+In einem Computerspiel kann der Spieler neue Rollen ausprobieren. Vor allem für die, die im „Real Life“ Außenseiter sind, kann die Faszination der Onlinewelt als Erlebnisraum zur Versuchung führen, sich in die virtuelle Welt zu flüchten, um sich hier selbst zu bestätigen und den Problemen des Alltags zu entfliehen \[Duda\]. Dies gilt insbesondere dann, wenn die vom Spieler gewählte virtuelle Gemeinschaft durch sozialen Druck eine lange Anwesenheit im virtuellen Raum fordert. 
 
 >*“I'm not crazy about reality, but it's still the only place to get a decent meal.”* - Groucho Marx
 
