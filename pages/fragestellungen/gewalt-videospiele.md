@@ -2,7 +2,7 @@
 layout: page
 title: Gewalt in Computerspielen
 tagline: Sind Computerspiele gefährlich?
-group: navigation
+group: fragestellung
 ---
 
 Bezug zum Film

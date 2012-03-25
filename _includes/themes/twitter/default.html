@@ -17,6 +17,7 @@
 
 		
 		 <script type="text/javascript" src="/assets/javascripts/require-js/jquery.js"></script>  
+		 <script type="text/javascript" src="/assets/javascripts/require-js/plugins/dropdown.js"></script>  
 
     <!-- Le fav and touch icons -->
   <!-- Update these with your own images
@@ -33,8 +34,16 @@
     <div class="navbar">
       <div class="navbar-inner">
         <div class="container">
-          <a class="brand" href="{{ HOME_PATH }}">{{ site.title }}</a>
+          <a class="brand" href="{{ HOME_PATH }}">Gamer</a>
           <ul class="nav">
+						<li class="dropdown">
+								<a href="#"class="dropdown-toggle" data-toggle="dropdown">Fragestellungen <b class="caret"></b></a>
+								<ul class="dropdown-menu">
+									{% assign pages_list = site.pages %}
+									{% assign group = 'fragestellung' %}
+									{% include JB/pages_list %}
+								</ul>
+						</li>
             {% assign pages_list = site.pages %}
             {% assign group = 'navigation' %}
             {% include JB/pages_list %}

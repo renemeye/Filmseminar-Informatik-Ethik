@@ -1,7 +1,6 @@
 ---
 layout: page
 title: "Pseudonym vs. Anonym"
-header: Fuck Up
-group: navigation
+group: fragestellung
 ---
 {% include JB/setup %}
